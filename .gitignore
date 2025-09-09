@@ -1,0 +1,11 @@
+.import/
+.godot/import/
+.export/
+.temp/
+export_presets.cfg
+.cache/
+.vs/
+.vscode/
+*.tmp
+.DS_Store
+
