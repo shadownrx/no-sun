@@ -1,3 +1,7 @@
+TextureRect
+Control
+Button
+VBoxContainer
 MeshInstance3D
 SpotLight3D
 RayCast3D
