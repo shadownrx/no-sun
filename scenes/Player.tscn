@@ -3,6 +3,7 @@
 [ext_resource type="Script" uid="uid://ppd36un3bqxb" path="res://script/player.gd" id="1_p0vlq"]
 
 [node name="Node3D" type="Node3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.249269, 0)
 
 [node name="Player" type="CharacterBody3D" parent="."]
 script = ExtResource("1_p0vlq")

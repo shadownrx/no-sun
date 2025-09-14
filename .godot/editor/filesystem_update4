@@ -1,0 +1,5 @@
+res://script/player.gd
+res://main_menu.tscn
+res://Menus/custom_button.tscn
+res://Menus/custom_button.gd
+res://Menus/main_menu.tscn
