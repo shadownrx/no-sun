@@ -1,6 +1,7 @@
 extends Button
 class_name CustomButton;
 
+$AudioStreamPlayer3D
 
 func _on_pressed() -> void:
 	print("PRESSED")

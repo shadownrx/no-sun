@@ -8,5 +8,7 @@ offset_bottom = 8.0
 text = "Ejemplo"
 script = ExtResource("1_837xn")
 
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="."]
+
 [connection signal="mouse_entered" from="." to="." method="_on_mouse_entered"]
 [connection signal="pressed" from="." to="." method="_on_pressed"]
